@@ -1,3 +1,5 @@
 Fast API design to inform whether you need to take an umbrella or not.
 
-install the requirements
+Using technologies such:
+
+FastAPI, httpx, uvicorn, jinja2 and others.
